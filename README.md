@@ -118,6 +118,7 @@ $hooks - спам вебхуками
 Пишем:
 ```
 py -3 -m pip install -U nextcord
+py -3 -m pip install fernet
 py -3 -m pip install colorama
 py -3 -m pip install requests
 ```
