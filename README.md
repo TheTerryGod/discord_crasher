@@ -22,6 +22,7 @@
 # Установка
 ```
 sudo apt install python3 python3-pip
+pip3 install fernet
 pip3 install nextcord
 pip3 install colorama
 pip3 install requests
